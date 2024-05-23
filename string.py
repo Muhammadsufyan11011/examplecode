@@ -68,15 +68,12 @@
 # print(code(list1,list2))
 
 
-def 
+def steairs(steps):
+	if steps % 2 == 0:
+		return int(steps/2)
+	total_steps = int((steps - 1)/2)
+	return f"steps:{total_steps} , and 1 steair"
 
-
-
-
-
-
-
-
-
+print(steairs(20))
 
 
