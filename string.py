@@ -56,16 +56,25 @@
 # 	return result
 # print(changeChar("WTFFsufya"))
 
-list1=[1,3,54,33]
-list2=[1,3,11]
+# list1=[1,3,54,33]
+# list2=[1,3,11]
 
-def code(list1,list2):
-	result=[]
-	for i in list1:
-		if i in list2:
-			result.append(i)
-	return result
-print(code(list1,list2))
+# def code(list1,list2):
+# 	result=[]
+# 	for i in list1:
+# 		if i in list2:
+# 			result.append(i)
+# 	return result
+# print(code(list1,list2))
+
+
+def 
+
+
+
+
+
+
 
 
 
